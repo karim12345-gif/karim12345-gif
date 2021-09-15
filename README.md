@@ -1,20 +1,7 @@
 ### Hey there, I'm karim! 👋
-
-
-<p align=”center”>
-<a href=”LinkedIn profile URL”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
-                                                                                                                                                                                    
-                                                                                              
-
-
-
-
-                                                                                             
+                                                                                                                                                                                                                                                                                                                                                         
 - 🔭 I’m currently working on Netflix clone project using Mern Stack. 🎥 
-- 🌱 I’m currently learning ?style=plastic&logo=appveyor Flutter and Dart.
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  and <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />.
 - 👯 I’m looking to collaborate on any excting project with anyone, i'm always open to learn new things. 😊 
 
 - 📫 How to reach me: 
