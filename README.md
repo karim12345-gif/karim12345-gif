@@ -1,12 +1,11 @@
 ### Hey there, I'm karim! 👋
 
 
-<p align=”left”>
-<a href=”www.linkedin.com/in/karim-salim/”>
+<p align=”center”>
+<a href=”LinkedIn profile URL”>
 <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
-
                                                                                                                                                                                     
                                                                                               
 
