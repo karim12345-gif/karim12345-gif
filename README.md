@@ -1,11 +1,11 @@
 ### Hey there, I'm karim! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
                                                                                                                                                                                                                                                                                                                                                          
-- 🔭 I’m currently working on Netflix clone project using Mern Stack. 🎥 
-- 🌱 I’m currently learning: 
+- 🔭  I’m currently working on Netflix clone project using Mern Stack. 🎥 
+- 🌱  I’m currently learning: 
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
-- 👯 I’m looking to collaborate on any excting projects, i'm always open to learn new things. 😊 
+- 👯  I’m looking to collaborate on any excting projects, i'm always open to learn new things. 😊 
 
 - 📫 How to reach me: 
 
@@ -26,8 +26,8 @@ Things I like to use to code with :
  
  
  
- - ⚡️ 2021 Goals: Get my AWS associate Architect certificate and Contribute more to Open Source Projects
- - 🤩 Fun Fact: I love to draw and read books.
+ - ⚡️   2021 Goals: Get my AWS associate Architect certificate and Contribute more to Open Source Projects
+ - 🤩  Fun Fact: I love to draw and read books.
 
 
 
