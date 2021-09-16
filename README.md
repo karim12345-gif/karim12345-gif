@@ -9,11 +9,7 @@
 
 - 📫 How to reach me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-karim%20Salim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-salim/)
-
-[![Mail Badge](https://img.shields.io/badge/-karimSalim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karim991996@gmail.com)
-
-[![Stackoverflow Badge](https://img.shields.io/badge/-karimSalim-c0392b?style=flat&labelColor=c0392b&logo=stackoverflow&logoColor=yellow)](https://stackoverflow.com/users/14599095/karim?tab=profile)
+[![Linkedin Badge](https://img.shields.io/badge/-karim%20Salim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-salim/) [![Mail Badge](https://img.shields.io/badge/-karimSalim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:karim991996@gmail.com) [![Stackoverflow Badge](https://img.shields.io/badge/-karimSalim-c0392b?style=flat&labelColor=c0392b&logo=stackoverflow&logoColor=yellow)](https://stackoverflow.com/users/14599095/karim?tab=profile)
 
 
 
