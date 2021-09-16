@@ -20,4 +20,12 @@ Things I like to use to code with :
  Tools I use:
  
  
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />                                                                                            
+ <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
+ 
+ 
+ 
+ - ⚡️ 2021 Goals: Get my AWS associate Architect certificate and Contribute more to Open Source Projects
+ - 🤩 Fun Fact: I love to draw and read books.
+
+
+
