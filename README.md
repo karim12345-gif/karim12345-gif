@@ -30,7 +30,11 @@ Things I like to use to code with :
 
 
 
+ 🏆 Github Stats: 
+
 ![Karim's github stats](https://github-readme-stats.vercel.app/api?username=karim12345-gif)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karim12345-gif&theme=vue)
 
 
 
