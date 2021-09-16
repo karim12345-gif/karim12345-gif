@@ -29,3 +29,8 @@ Things I like to use to code with :
 
 
 
+
+![Karim's github stats](https://github-readme-stats.vercel.app/api?username=karim12345-gif)
+
+
+
