@@ -1,9 +1,8 @@
 ### Hey there, I'm karim! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-                                                                                                                                                                                                                                                                                                                                                         
-- 🔭 📝   I’m currently working on Netflix clone project using Mern Stack, i plan to also create a clone of Twitter and Disney using Mern stack as well. 🎥 
+
 - 🌱  I’m currently learning: 
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Typescript-02569B?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
 - 👯  I’m looking to collaborate on any excting projects, i'm always open to learn new things. 😊 
 
