@@ -37,7 +37,7 @@ Things I like to use to code with :
  
  
  
- - ⚡️   2021 Goals: Get my AWS associate Architect certificate and Contribute more to Open Source Projects
+ - ⚡️   2023 Goals: Get my AWS associate Architect certificate and Contribute more to Open Source Projects
  - 🤩  Fun Fact: I love to draw and read books.
 
 
